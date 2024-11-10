@@ -2,7 +2,7 @@
 
 BaiJi is an efficient format converter and compression tool that minimizes media quality loss.
 
-![BaiJi](./images/BaiJi.png)
+![BaiJi](./screenshot.png)
 
 ## Features
 
