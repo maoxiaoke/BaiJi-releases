@@ -1,12 +1,12 @@
 # BaiJi
 
-BaiJi is a macOS application built with SwiftUI that provides image processing capabilities using ImageMagick. It offers a user-friendly interface for various image manipulation tasks.
+BaiJi is an efficient format converter and compression tool that minimizes media quality loss.
+
+![BaiJi](./images/BaiJi.png)
 
 ## Features
 
-- Drag and drop interface for image processing
-- Settings management with multiple preference panes
-- Dark mode support
-- Image processing using ImageMagick utilities
-- License management and display
+- Convert any image format, including HEIC, PNG, JPEG, and WebP.
+- Crop images based on specific dimensions.
+- Support Chinese and English.
 
