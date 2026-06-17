@@ -29,5 +29,14 @@
       <description><![CDATA[修复 JPEG 等格式无法处理（打包 ImageMagick 依赖库）]]></description>
       <enclosure url="https://github.com/maoxiaoke/BaiJi-releases/releases/download/v2.4/BaiJi.2.4.dmg" sparkle:edSignature="eultvvzY8Vgs/gAKj4bU/i2Lna7a+wJkGdPI+VUU7lTGnnas3WxMu06mHtfNlr1JTH2SMOgP/hMejZMCBrI1CQ==" length="48322170" type="application/octet-stream" />
     </item>
+    <item>
+      <title>2.5</title>
+      <pubDate>Wed, 17 Jun 2026 15:16:20 +0800</pubDate>
+      <sparkle:version>2.5</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Show a confirmation toast when a compressed image is copied to the clipboard.]]></description>
+      <enclosure url="https://github.com/maoxiaoke/BaiJi-releases/releases/download/v2.5/BaiJi.2.5.dmg" sparkle:edSignature="0fwh0BWT8PypGg2diy7ewTMExb2b8eIk5XggNnzMTK+DDJ3+acYBb9+4HciOIKdRpawG70byVg7VZRvHK0yGAg==" length="48328282" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
