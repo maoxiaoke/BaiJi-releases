@@ -11,5 +11,14 @@
       <description><![CDATA[Clipboard paste support; switched to Sparkle auto-updates]]></description>
       <enclosure url="https://github.com/maoxiaoke/BaiJi-releases/releases/download/v2.2/BaiJi.2.2.dmg" sparkle:edSignature="DQhW+3MIWMUpKN2V0N9SSjKXhL5zk+ZMHh9PU5eyC0OfcJJEvRCiSD9Bqz293zhr1PTsaWiSXi8eIVF9q7YVBQ==" length="36410190" type="application/octet-stream" />
     </item>
+    <item>
+      <title>2.3</title>
+      <pubDate>Wed, 17 Jun 2026 14:07:35 +0800</pubDate>
+      <sparkle:version>2.3</sparkle:version>
+      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[新增设置项：图片压缩后自动复制到剪贴板]]></description>
+      <enclosure url="https://github.com/maoxiaoke/BaiJi-releases/releases/download/v2.3/BaiJi.2.3.dmg" sparkle:edSignature="Y+7NHC1ZeFBH9Qhw9rjpcMevqYP6zQosdA5LQ/7yR6upa9Max5f1QpGvdPGuZsdFjSipB7qI5T8G8rlujIr6CQ==" length="36393449" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
